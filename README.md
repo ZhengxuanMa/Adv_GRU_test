@@ -20,6 +20,8 @@ Implementation of "Enhancing Stock Movement Prediction with Adversarial Training
 ## Data structure
 
 ```
+Dataset for this code can be provided upon request 
+
 30 mins frequency with 63 variables for each time step and 8 records per day with arbitrary row lengths
 
 
