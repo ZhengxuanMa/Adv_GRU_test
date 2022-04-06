@@ -1,4 +1,4 @@
-## GRU with Adversarial "turbulence" implementation for time series analysis
+## GRU with Adversarial "turbulence" during backpropagation implementation for time series analysis
 
 Implementation of "Enhancing Stock Movement Prediction with Adversarial Training" IJCAI 2019 <a href="https://arxiv.org/abs/2107.05407"></a> paper.
 
